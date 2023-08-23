@@ -1,1 +1,1 @@
-# sample_flask_app
+# {{ cookiecutter.project_name }}
